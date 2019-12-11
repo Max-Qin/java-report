@@ -1,0 +1,6 @@
+001	zhang	nan	44	10
+002	wang	nan	46	20
+003	li	nan	50	10
+004	qin	nv	49	30
+005	jiang	nv	47	20
+006	xiong	nv	45	10
